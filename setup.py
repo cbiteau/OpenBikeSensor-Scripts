@@ -9,7 +9,7 @@ setup(
     author="OpenBikeSensor Contributors",
     license="LGPL-3.0",
     description="OpenBikeSensor Scripts Collection",
-    url="https://github.com/openbikesensor/OpenBikeSensor-Scripts",
+    url="https://github.com/cbiteau/OpenBikeSensor-Scripts",
     packages=find_packages(),
     package_data={},
     install_requires=requires,
